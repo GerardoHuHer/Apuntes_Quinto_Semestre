@@ -1,0 +1,22 @@
+¿ Qué es la web ?
+World wide web, sistema de información global que nos permite a los usuarios acceder a documentos y otros recursos multimedia a través de Internet utilizando un navegador web.
+
+- Es un servicio que opera sobre internet.
+- Consiste en una colección de documentos y recursos enlazados mediante hipervínculos.
+- Accesibles a través de navegadores web.
+=============================================================================================================
+¿ Qué es internet ?
+Red global de redes de computadoras interconectadas que permite la comunicación y el intercambio de información entre dispositivos.
+
+Es una infraestructura de hardware y software que utiliza el conjunto 
+=============================================================================================================
+IMPACTO
+- Comunicación:
+	Revolución en el acceso a la información, las interacciones sociales y económicas.
+- Conocimiento:
+	Ha democratizado el conocimiento, permitiendoa las personas acceder a una vasta cantidad de información y recursos educativos desde cualquier lugar.
+- Trabajo:
+	Ha facilitado la creación y el intercambio de contenido, impulsando la economía digital y nuevas formas de trabajo, como el teletrabajo y el comercio electrónico.
+- Cultura:
+	Ha conectado a personas a nivel global, promoviendo la colaboración y el entendimiento intercultural.
+=============================================================================================================
