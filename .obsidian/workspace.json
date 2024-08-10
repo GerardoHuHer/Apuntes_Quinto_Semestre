@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "59643d18f2e195e2",
+            "id": "2caf185a80a4aba7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b119ca2483e566b1",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DesarrolloWeb/Tarea 1 Tim Berners-Lee.md",
+                "file": "DesarrolloWeb/1 Historia de la Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DesarrolloWeb/Tarea 1 Tim Berners-Lee.md",
+                "file": "DesarrolloWeb/1 Historia de la Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DesarrolloWeb/Tarea 1 Tim Berners-Lee.md"
+                "file": "DesarrolloWeb/1 Historia de la Web.md"
               }
             }
           }
@@ -183,11 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59643d18f2e195e2",
+  "active": "57234a251cb19df2",
   "lastOpenFiles": [
-    "Hackeo/Docker.md",
-    "DesarrolloWeb/Tarea 1 Tim Berners-Lee.md",
     "Ciberseguridad/Introducción a la seguridad de la información.md",
+    "DesarrolloWeb/Tarea 1 Tim Berners-Lee.md",
+    "DesarrolloWeb/1 Historia de la Web.md",
+    "Untitled.md",
+    "Hackeo/Docker.md",
     "Hackeo",
     "Hacking ético",
     "Pasted image 20240807204742.png",
@@ -195,7 +197,6 @@
     "Pasted image 20240807181157.png",
     "Pasted image 20240807181115.png",
     "IdeO/Orígenes de la Investigación de Operaciones.md",
-    "DesarrolloWeb/1 Historia de la Web.md",
     "2024-08-07.md",
     "Investigación de Operaciones/Sin título.md",
     "IdeO",
