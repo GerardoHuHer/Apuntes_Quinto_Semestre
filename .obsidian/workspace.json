@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Introducción a la seguridad de la información.md",
+                "file": "Ciberseguridad/1-Introducción a la seguridad de la información.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87d6842c3d283234",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ProcesamientoImagenes/Sin título.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Introducción a la seguridad de la información.md",
+                "file": "Ciberseguridad/1-Introducción a la seguridad de la información.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Introducción a la seguridad de la información.md",
+                "file": "ProcesamientoImagenes/Sin título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Introducción a la seguridad de la información.md",
+                "file": "ProcesamientoImagenes/Sin título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Introducción a la seguridad de la información.md"
+                "file": "ProcesamientoImagenes/Sin título.md"
               }
             }
           }
@@ -183,10 +196,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "57234a251cb19df2",
+  "active": "430099f8d24707a8",
   "lastOpenFiles": [
+    "Ciberseguridad/1-Introducción a la seguridad de la información.md",
+    "ProcesamientoImagenes/Sin título.md",
+    "ProcesamientoImagenes",
     "DesarrolloWeb/1 Historia de la Web.md",
-    "Ciberseguridad/Introducción a la seguridad de la información.md",
     "DesarrolloWeb/Tarea 1 Tim Berners-Lee.md",
     "Untitled.md",
     "Hackeo/Docker.md",
