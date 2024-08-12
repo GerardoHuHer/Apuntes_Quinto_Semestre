@@ -73,3 +73,16 @@ De acuerdo con Gartner
 8. Project Manager Professional.
 9. Digital Marketing.
 10. Agile / Scrum.
+# Certificaciones de seguridad más reconocidas
+1. CISSP (Certified Information Systems Security Professional)
+2. CISA (Certified Information Systems Auditor)
+3. OSCP (Offensive Security Certified Profesional)
+4. OSCE (Offensive Security Certified Expert)
+5. CEH (Certified Ethical Hacker)
+
+# Principales Entes Certificadores
+1. ISACA
+2. ISC^2
+3. SANS INSTITUTE
+4. EC-Council 
+5. Offesnsive security
