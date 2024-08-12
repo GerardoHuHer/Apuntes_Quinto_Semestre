@@ -1,0 +1,10 @@
+Meter una imagen a un proceso en el cuál se modifican las características de la imagen.
+imagen digital: representación visual, que podemos almacenar y visualizar en nuestros dispositivos electrónicos.
+Todas la imágenes se pueden descomponer en píxeles.
+Píxel: es la unidad mínima en la que está compuesta una imagen.
+pixel= Picture Element
+En los píxeles puedo almacenar 8, 16 o 24
+interpetre: motor qeu te ayuda a interpretar el código.
+La representación de una imagen digital se hace por medio de un mapa de bits
+Cada color almacena 8 bits, rojo=8 bits. verde=8 bits y azul = 8 bits, o sea 24 bits que sería el rgb
+En cada pixel se guardan 24 bits
