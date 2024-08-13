@@ -84,4 +84,32 @@ Para nuestro portafolio le puedes poner .me o .info en la extención.
 
 
 Firefox open source permite el desarrollo de el resto de los navegadores.
-Gracias a esto se genera WEB 2.0
+Gracias la guerra de los navegadores se genera WEB 2.0
+
+Folksonomia:  Etiquetado de páginas web para poder encontrar lo que uno busca y además mostrar información según las relaciones de las palabras que buscas. 
+
+RSS:  Sistema para compartir información que utiliza xml para compartir información Ícono wifi 
+
+Economía colaborativa y participativa (Airbnb, Uber y Kickstarter)
+La web 2.0 pasó a ser una web más interactiva y pariticipativa.
+
+---
+# Web 3.0
+Conocida cómo 
+la web semántica, se centra en hacer que los datos en la web sean legibles y procesables por máquinas.
+Inteligencia Artificial y Aprendizaje Automático.
+Aplicaciones Web Progresivas (PWA).
+Realidad Aumentada (AR) y Realidad Virtual (VR).
+
+# Web 4.0
+Estará más centrada en la integración de las cosas y la conectividad de la inteligencia artificial y la interconectividad, creando un entorno altamente interactivo e intuitivo donde la web y el mundo físico estén perfectamente fusionados.
+- Computación cuántica.
+- Hiperconectividad.
+- Privacidad y Seguridad Mejoradas.
+- Experiencias Holográficas y Multi-sensoriales.
+
+
+Web 1: Información.
+Web 2: Interactiva.
+Web 3: Semántica.
+Web 4: Integración total.
