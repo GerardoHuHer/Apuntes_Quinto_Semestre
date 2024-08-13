@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "87d6842c3d283234",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ProcesamientoImagenes/Sin título.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "09af6a3992c28e1c",
             "type": "leaf",
             "state": {
@@ -67,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProcesamientoImagenes/Sin título.md",
+                "file": "Ciberseguridad/1-Introducción a la seguridad de la información.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProcesamientoImagenes/Sin título.md",
+                "file": "Ciberseguridad/1-Introducción a la seguridad de la información.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProcesamientoImagenes/Sin título.md"
+                "file": "Ciberseguridad/1-Introducción a la seguridad de la información.md"
               }
             }
           }
