@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "c29c7a24782dce25",
+    "type": "split",
+    "children": [
+      {
+        "id": "60e13aa65b73ff82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "482ccd77d3e6056c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciberseguridad/1-Introducción a la seguridad de la información.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "283f262661d1994a",
+    "type": "split",
+    "children": [
+      {
+        "id": "01b5529c020c9aef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86ea99537bfe24b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae86478e593c37a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0d1511b780fcc56a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5c8c367cbc80f1c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcb2f46f86630e37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef1a6ac117b3711c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ciberseguridad/1-Introducción a la seguridad de la información.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03ed1707db72b733",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ciberseguridad/1-Introducción a la seguridad de la información.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "65512842260192aa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bd2e8156b29d6fef",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ciberseguridad/1-Introducción a la seguridad de la información.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "482ccd77d3e6056c",
+  "lastOpenFiles": [
+    "Ciberseguridad/Sin título.md"
+  ]
+}

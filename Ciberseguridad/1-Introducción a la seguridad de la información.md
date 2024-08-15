@@ -86,3 +86,12 @@ De acuerdo con Gartner
 3. SANS INSTITUTE
 4. EC-Council 
 5. Offesnsive security
+
+# Fases del Ethical Hacking
+1. Reconocimiento: Information/Identification, vamos a buscar la información de nuestro objetivo.
+2. Escaneo: Service enumeration.
+3. Obtener acceso: Explotation.
+4. Mantener acceso:
+5. Eliminar rastros de configuraciones realizadas: House keeping.
+- Principio de Locard: Cuando atacan el sistema se deja un rastro. 
+Usualmente se detecta ya qué el atacante lleva tiempo en el sistema, y lo que hace el forense es tratar de ver o recrear lo qeu sucedió
