@@ -64,7 +64,12 @@ Sufijos y prefijos de dominio
 - .com
 - .org
 - .net
-- .gob
+- .gobLos códigos pueden ir del 100 al 599 y se dividen de la siguiente manera:
+​￼- 100-199: Informativo - Solicitud recibida, proceso continuo..
+	- 100: Continue/Continuar - Indica que la solicitud se ha recibido sin ningún problema, todo está bien pero el proceso continúa, si no se rechaza el resto del proceso todo estará bien.
+	- 101: Switching Protocol/Cambio de protocolos - Este código indica que el servidor acepta la solicitud del cliente cambiar a un protocolo HTTP diferente.
+	- 102: Processing/Procesamiento - Este es un estado que solo se usa con WebDAV (Web Distributed Authoring and Versioning); este código es de estado e indica una respuesta provisional, gracias a la cual se indica al cliente que ha aceptado la solicitud completa, pero ésta no se ha terminado aún.
+	- 103: Early Hints/C
 - .edu
 - .onion
 - .tech
@@ -108,8 +113,8 @@ Estará más centrada en la integración de las cosas y la conectividad de la in
 - Privacidad y Seguridad Mejoradas.
 - Experiencias Holográficas y Multi-sensoriales.
 
-
-Web 1: Información.
-Web 2: Interactiva.
-Web 3: Semántica.
-Web 4: Integración total.
+|
+Web 1: Información la información es estática.
+Web 2: Interactiva y orientada al usuario, la guerra de los navegadores es loq eu nos hace pasar a la w2.
+Web 3: Semántica, asignarle datos a las etiquetas es lo que nos permitió llegar a las w3.
+Web 4: Integración digital completa, la velocidad y el procesamiento de los datos es lo que nos permite llegar a la w4.
