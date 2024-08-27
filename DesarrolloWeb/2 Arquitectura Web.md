@@ -75,7 +75,6 @@ Requiere que los desarrolladores gestionen la persistencia de datos mediante coo
 5. DELETE: Elimina un recurso en el servidor.
 6. OPTIONS: Describe las opciones de comunicación para el recurso destino.
 7. PATCH: Aplica modificaciones parciales a un recurso.
-
 ## Estructura de un mensaje HTML 
 #### Solicitud HTTP
 Incluye una línea de solicitud (método, URI, versión HTTP), encabezados de solicitud (información adiciconal como el cuerpo de un contenido, agente de usuario), y un cuerpo de solicitud (opcional, usualmente en solicitudes POST).
@@ -85,4 +84,5 @@ Incluye una línea de estado (versión HTTP, código de estado, frase de razón)
 URL: Uniform Resource Locator.
 URN: Uniform Resource Number.
 URI: Uniform Resorce Identifier.
+
 
