@@ -8,103 +8,91 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2caf185a80a4aba7",
+            "id": "5d1227e82f56c8af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DesarrolloWeb/1 Historia de la Web.md",
+                "file": "IdeO/Orígenes de la Investigación de Operaciones.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "32c66b8d945ccecc",
+            "id": "3eafdb0c8bf616bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DesarrolloWeb/Ponderación.md",
+                "file": "IdeO/Investigación de Operaciones.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1d1f663ef16dd4e1",
+            "id": "5a7eb94feb880f6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IdeO/Planteamiento de Análisis de Casos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57d793f5b460c965",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciberseguridad/Segundo Parcial/Tema 3, Seguridad Computacional.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7cfc50a36ab15b0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "ProcesamientoImagenes/Clase 12-08-24.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "04a2777b4007afa9",
+            "id": "abd2e62cb8a952e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProcesamientoImagenes/Clase 16-08-24.md",
-                "mode": "source",
+                "file": "Materias.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "32842eaba08307b2",
+            "id": "bfc959f7041b8417",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DesarrolloWeb/2 Arquitectura Web.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "088ff4ca7b3f575b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DesarrolloWeb/Tarea 2 Http request errors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e346fa5fc231e3eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DesarrolloWeb/Estructura proyecto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f3cd10c7a3a5f25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciberseguridad/2-.md",
+                "file": "Materias.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b119ca2483e566b1",
@@ -171,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/2-.md",
+                "file": "Ciberseguridad/Segundo Parcial/Tema 3, Seguridad Computacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/2-.md",
+                "file": "Ciberseguridad/Segundo Parcial/Tema 3, Seguridad Computacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/2-.md"
+                "file": "Ciberseguridad/Segundo Parcial/Tema 3, Seguridad Computacional.md"
               }
             }
           }
@@ -232,34 +219,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f3cd10c7a3a5f25",
+  "active": "57d793f5b460c965",
   "lastOpenFiles": [
-    "DesarrolloWeb/Estructura proyecto.md",
-    "Ciberseguridad/2-.md",
-    "DesarrolloWeb/Tarea 2 Http request errors.md",
-    "DesarrolloWeb/cheat_sheet.md",
-    "Hackeo/Clase Hackeo Teoría.md",
-    "DesarrolloWeb/Cheet Sheet.md",
-    "DesarrolloWeb/2 Arquitectura Web.md",
-    "Hackeo/Docker.md",
-    "DesarrolloWeb/Ponderación.md",
-    "ProcesamientoImagenes/Clase 19-08-24.md",
-    "ProcesamientoImagenes/Clase 16-08-24.md",
-    "Pasted image 20240807181115.png",
+    "Ciberseguridad/Segundo Parcial/Tema 3, Seguridad Computacional.md",
+    "Materias.md",
+    "ProcesamientoImagenes/Procesamiento de Imágenes.md",
     "ProcesamientoImagenes/Clase 12-08-24.md",
-    "DesarrolloWeb/Tarea 1 Tim Berners-Lee.md",
+    "Ciberseguridad/Primer Parcial/1-Introducción a la seguridad de la información.md",
+    "Ciberseguridad/Ciberseguridad.md",
+    "DesarrolloWeb/Desarrollo Web.md",
+    "Ciberseguridad/Segundo Parcial/Untitled.md",
+    "IdeO/Planteamiento de Análisis de Casos.md",
+    "IdeO/Investigación de Operaciones.md",
+    "Ciberseguridad/Primer Parcial/Repaso Primer Examen.md",
+    "IdeO/Orígenes de la Investigación de Operaciones.md",
+    "Ciberseguridad/Primer Parcial/Sistema de Gestión de Seguridad de la Información..md",
+    "DesarrolloWeb/Estructura proyecto.md",
+    "DesarrolloWeb/Tarea 2 Http request errors.md",
+    "DesarrolloWeb/2 Arquitectura Web.md",
+    "ProcesamientoImagenes/Clase 16-08-24.md",
+    "DesarrolloWeb/Ponderación.md",
     "DesarrolloWeb/1 Historia de la Web.md",
-    "Ciberseguridad/1-Introducción a la seguridad de la información.md",
+    "ProcesamientoImagenes/Clase 13 Septiembre.md",
+    "IdeO/Diseño de modelos continuos.md",
+    "Hackeo/Docker.md",
+    "Hackeo/Clase Hackeo Teoría.md",
+    "ProcesamientoImagenes/Calificaciones Procesamiento de Imágenes.md",
+    "ProcesamientoImagenes/Clase 19-08-24.md",
+    "files",
+    "DesarrolloWeb/cheat_sheet.md",
+    "Ciberseguridad/Segundo Parcial",
+    "Ciberseguridad/Primer Parcial",
     "Untitled.canvas",
+    "files/Pasted image 20240807181115.png",
     "ProcesamientoImagenes",
     "Hackeo",
     "Hacking ético",
-    "Pasted image 20240807204742.png",
-    "IdeO/Diseño de modelos continuos.md",
-    "Pasted image 20240807181157.png",
-    "IdeO/Orígenes de la Investigación de Operaciones.md",
-    "2024-08-07.md",
-    "Investigación de Operaciones/Sin título.md",
+    "files/Pasted image 20240807204742.png",
+    "files/Pasted image 20240807181157.png",
     "IdeO",
     "Investigación de Operaciones",
     "Sin nombre 1",

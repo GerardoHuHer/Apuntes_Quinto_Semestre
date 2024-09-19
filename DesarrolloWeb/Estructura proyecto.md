@@ -8,3 +8,4 @@ root
 		img/
 		Vendors/ **Etiqueta donde se pueden guardar códigos de terceros**
 		
+## Cheat Sheet de HTML: [[cheat_sheet]]

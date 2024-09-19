@@ -118,3 +118,6 @@ Web 1: Información la información es estática.
 Web 2: Interactiva y orientada al usuario, la guerra de los navegadores es loq eu nos hace pasar a la w2.
 Web 3: Semántica, asignarle datos a las etiquetas es lo que nos permitió llegar a las w3.
 Web 4: Integración digital completa, la velocidad y el procesamiento de los datos es lo que nos permite llegar a la w4.
+
+### Inventor de WWW: [[Tarea 1 Tim Berners-Lee]]
+### Arquitectura de la Web: [[2 Arquitectura Web]]

@@ -53,7 +53,7 @@ Investigar códigos de error de las peticiones http unos 5 de cada petición.
 400 5 más importantes
 500 5 más importantes
 
-## HTTP  (HyperText Transfer Protocol)
+## HTTP  (HyperText Transfer Protocol) [[cheat_sheet]] [[Estructura proyecto]]
 Protocolo fundamental utilizado en la WWW para la transferencia de información entre los navegadores web (clientes) y los servidores web.
 
 Define cómo los mensajes son formateados y transmitidos, y cómo los navegadores y servidores deben responder a varias solicitudes.
@@ -78,8 +78,10 @@ Requiere que los desarrolladores gestionen la persistencia de datos mediante coo
 ## Estructura de un mensaje HTML 
 #### Solicitud HTTP
 Incluye una línea de solicitud (método, URI, versión HTTP), encabezados de solicitud (información adiciconal como el cuerpo de un contenido, agente de usuario), y un cuerpo de solicitud (opcional, usualmente en solicitudes POST).
-#### Respuesta HTTP
+#### Respuesta HTTP [[Tarea 2 Http request errors]]
 Incluye una línea de estado (versión HTTP, código de estado, frase de razón), encabezados de respuesta (información adicional como tipo de contenido, longitud de contenido), y un cuerpo de respuesta (los datos solicitados).
+
+#### ¿Qué es una CORS policy? [[Cors Policy]]
 
 URL: Uniform Resource Locator.
 URN: Uniform Resource Number.
