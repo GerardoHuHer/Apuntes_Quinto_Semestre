@@ -1,2 +1,2 @@
 Tags: [[Procesamiento de Imágenes]]
-**Examen Primer Parcial (15%)**  8.8
+Filtro de máscara, nos permité re

@@ -1,3 +1,4 @@
+Tags: [[Ciberseguridad]]
 # Conceptos y principios 
 
 PAM (Priviliged Access Monitoring)
@@ -81,3 +82,31 @@ Utiliza diversas tecnicas:
 - Dañar algún sistema.
 
 # Hacker vs Cracker
+El hacker es la persona buena que está buscando vulnerabilidades y cracker es aquel que sale de la parte ética.
+## Métodos de Ataque
+
+Taxonomía general de un ciberataque/ ethical hacking
+**Reconocimiento:** 
+	- OSINT: Open Source Intelligence.
+	- Direcciones IP.
+	- Herramientas.
+	- Who.is
+**Escaneo:**
+	- Activo.
+	- Pasivo.
+	- Vulnerabilidades.
+**Acceso:** 
+	- Acceso no persistente.
+**Mantener acceso:**
+	 - Acceso persistente: Aunque se reinicié el equipo va a seguir la conexión .
+**Eliminado de huellas:** 
+	 - Logs.
+	 - Rastros.
+	 - Exploits.
+	 - Usuarios creados.
+_Escaneo pasivo: Aquel escaneo que no se detecta_
+_CVE: Nombre de la vulnerabilidad encontrada._
+# Arquitectura de Seguridad
+El NIST SP 800-37 rev 2 señala que tanto la arquitectura de seguridad y la arquitectura 
+
+La arquitectura de seguridad es el conjunto de representaciones lógicas y físicas de la arquitectura de sistemas que transmite información sombre cómo se divide el sistema en dominios 

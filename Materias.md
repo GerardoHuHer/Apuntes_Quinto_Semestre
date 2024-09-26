@@ -2,4 +2,3 @@
 - [[Investigación de Operaciones]]
 - [[Desarrollo Web]]
 - [[Procesamiento de Imágenes]]
-- 

@@ -8,91 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5d1227e82f56c8af",
+            "id": "2620c9eb644cf1d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IdeO/Orígenes de la Investigación de Operaciones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3eafdb0c8bf616bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IdeO/Investigación de Operaciones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a7eb94feb880f6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IdeO/Planteamiento de Análisis de Casos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57d793f5b460c965",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciberseguridad/Segundo Parcial/Tema 3, Seguridad Computacional.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7cfc50a36ab15b0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ProcesamientoImagenes/Clase 12-08-24.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "abd2e62cb8a952e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Materias.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bfc959f7041b8417",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Materias.md",
+                "file": "IdeO/Caso sobre el Uso y desarrollo de bienes raíces.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b119ca2483e566b1",
@@ -158,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Segundo Parcial/Tema 3, Seguridad Computacional.md",
+                "file": "IdeO/Caso sobre el Uso y desarrollo de bienes raíces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Segundo Parcial/Tema 3, Seguridad Computacional.md",
+                "file": "IdeO/Caso sobre el Uso y desarrollo de bienes raíces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Segundo Parcial/Tema 3, Seguridad Computacional.md"
+                "file": "IdeO/Caso sobre el Uso y desarrollo de bienes raíces.md"
               }
             }
           }
@@ -219,35 +147,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57d793f5b460c965",
+  "active": "2620c9eb644cf1d0",
   "lastOpenFiles": [
-    "Ciberseguridad/Segundo Parcial/Tema 3, Seguridad Computacional.md",
-    "Materias.md",
-    "ProcesamientoImagenes/Procesamiento de Imágenes.md",
-    "ProcesamientoImagenes/Clase 12-08-24.md",
-    "Ciberseguridad/Primer Parcial/1-Introducción a la seguridad de la información.md",
-    "Ciberseguridad/Ciberseguridad.md",
-    "DesarrolloWeb/Desarrollo Web.md",
-    "Ciberseguridad/Segundo Parcial/Untitled.md",
-    "IdeO/Planteamiento de Análisis de Casos.md",
-    "IdeO/Investigación de Operaciones.md",
-    "Ciberseguridad/Primer Parcial/Repaso Primer Examen.md",
-    "IdeO/Orígenes de la Investigación de Operaciones.md",
-    "Ciberseguridad/Primer Parcial/Sistema de Gestión de Seguridad de la Información..md",
-    "DesarrolloWeb/Estructura proyecto.md",
-    "DesarrolloWeb/Tarea 2 Http request errors.md",
     "DesarrolloWeb/2 Arquitectura Web.md",
-    "ProcesamientoImagenes/Clase 16-08-24.md",
-    "DesarrolloWeb/Ponderación.md",
-    "DesarrolloWeb/1 Historia de la Web.md",
-    "ProcesamientoImagenes/Clase 13 Septiembre.md",
-    "IdeO/Diseño de modelos continuos.md",
-    "Hackeo/Docker.md",
-    "Hackeo/Clase Hackeo Teoría.md",
-    "ProcesamientoImagenes/Calificaciones Procesamiento de Imágenes.md",
+    "IdeO/Orígenes de la Investigación de Operaciones.md",
+    "IdeO/Caso sobre el Uso y desarrollo de bienes raíces.md",
+    "IdeO/Planteamiento de Análisis de Casos.md",
+    "Ciberseguridad/Segundo Parcial/Tema 3, Seguridad Computacional.md",
+    "ProcesamientoImagenes/Procesamiento de Imágenes.md",
+    "Becario/Untitled.md",
+    "Ciberseguridad/Segundo Parcial/Hardening.md",
+    "Ciberseguridad/Segundo Parcial/Untitled 1.md",
+    "Ciberseguridad/Segundo Parcial/Untitled.md",
+    "Materias.md",
+    "ProcesamientoImagenes/Clase 12-08-24.md",
+    "DesarrolloWeb/Modelo Modular.md",
+    "DesarrolloWeb/Tarea 2 Http request errors.md",
+    "ProcesamientoImagenes/Ecualización.md",
+    "IdeO/Investigación de Operaciones.md",
+    "Becario",
+    "ProcesamientoImagenes/Filtros en el Procesamiento de Imágenes.md",
+    "DesarrolloWeb/Desarrollo Web.md",
     "ProcesamientoImagenes/Clase 19-08-24.md",
+    "ProcesamientoImagenes/Clase 16-08-24.md",
+    "ProcesamientoImagenes/Clase 13 Septiembre.md",
+    "ProcesamientoImagenes/Calificaciones Procesamiento de Imágenes.md",
+    "Hackeo/Clase Hackeo Teoría.md",
+    "Ciberseguridad/Ciberseguridad.md",
+    "DesarrolloWeb/1 Historia de la Web.md",
+    "DesarrolloWeb/Ponderación.md",
     "files",
-    "DesarrolloWeb/cheat_sheet.md",
     "Ciberseguridad/Segundo Parcial",
     "Ciberseguridad/Primer Parcial",
     "Untitled.canvas",
@@ -259,7 +188,6 @@
     "files/Pasted image 20240807181157.png",
     "IdeO",
     "Investigación de Operaciones",
-    "Sin nombre 1",
-    "Prisma JS"
+    "Sin nombre 1"
   ]
 }

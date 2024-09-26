@@ -19,8 +19,12 @@ $$
 $$
 
 
-4x_1 + 2x_2 + 7 x_3 \leq 4000
+4x_1 + 2x_2 + 7 x_3 \leq 6000
 $$
+$$
+x1 + \frac{1}{2}x_2 + \frac{1}{3} \leq 1500
+$$
+
 $$
 x_1 \geq 200
 $$
@@ -31,21 +35,12 @@ $$
 x_3 \geq 150
 $$
 $$
-2x_1 - x_2 = 0
-$$
-$$
-3x_1 - x_3 = 0
-$$
-$$
-x_1 \leq 1500
-$$
-$$
 2x_1 - 3x_3 = 0
 $$
 $$
 5x_2 - 2x_3 = 0
 $$
-
+*Restricción de no negatividad.*
 
 # Caso de Programación de Horarios (Autobuses)
 ## Variables
@@ -57,7 +52,7 @@ x_5 = Cantidad de autobuses que inician en el horario de 4:00 pm
 x_6 = Cantidad de autobuses que inician en el horario de 8:00 pm
 ## Función objetivo
 $$
-min z = x_1 + x_2 +x_3 + x_4 + x_5 + x_6
+Min z = x_1 + x_2 +x_3 + x_4 + x_5 + x_6
 $$
 ## Restricciones
 $$
@@ -79,6 +74,6 @@ $$
 x_5 + x_6 \geq 4 
 $$
 
-
+*Restricción de no negatividad.*
 
 

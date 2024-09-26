@@ -1,3 +1,4 @@
+Tags: [[Desarrollo Web]]
 ## ¿ Qué es la arquitectura web ? 
 - Se refiere al *diseño estructural de aplicaciones* y sistemas web, incluyendo los componentes, la disposición, y la interacción entre ellos.
 - La arquitectura web tiene como objetivo asegurar que los sitios y aplicaciones web sean eficientes, escalables, seguros y fáciles de mantener.
@@ -31,7 +32,7 @@ Estos modelos determinan cómo se estructuran los componentes de una aplicación
 La aplicación se construye y despliega como una sola unidad. Todos lo componentes de la aplicación (frontend, backend, base de datos) están integrados y ejecutados juntos.
 - Ventajas: Simplicidad en el desarrollo y despliegue, fácil de probar y depurar.
 - Desventajas: Difícil de escalar, mantener y actualizar debido a su tamaño y complejidad.
-**Microservicios:**
+**Microservicios, modular:**
 La aplicación se divide en servicios pequeños, independientes y desplegables de forma autómata. Cada microservicio tiene su propia logica y bases de datos
 
 ## Modelos derivados:
