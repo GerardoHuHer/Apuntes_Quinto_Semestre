@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "1cd70358800a2665",
+        "id": "668495895fdda64e",
         "type": "tabs",
         "children": [
           {
-            "id": "2620c9eb644cf1d0",
+            "id": "6379758e017ea0dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IdeO/Caso sobre el Uso y desarrollo de bienes raíces.md",
+                "file": "IdeO/Planteamiento de Análisis de Casos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f241a09eeeed7c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IdeO/Dualidad.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b119ca2483e566b1",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IdeO/Caso sobre el Uso y desarrollo de bienes raíces.md",
+                "file": "IdeO/Dualidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IdeO/Caso sobre el Uso y desarrollo de bienes raíces.md",
+                "file": "IdeO/Dualidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IdeO/Caso sobre el Uso y desarrollo de bienes raíces.md"
+                "file": "IdeO/Dualidad.md"
               }
             }
           }
@@ -147,24 +159,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2620c9eb644cf1d0",
+  "active": "5f241a09eeeed7c3",
   "lastOpenFiles": [
+    "IdeO/Investigación de Operaciones.md",
+    "IdeO/Dualidad.md",
+    "IdeO/Planteamiento de Análisis de Casos.md",
+    "Ciberseguridad/Segundo Parcial/Criptografía.md",
+    "Ciberseguridad/Segundo Parcial/Tema 3, Seguridad Computacional.md",
+    "Ciberseguridad/Segundo Parcial/Untitled 1.md",
+    "IdeO/Caso sobre el Uso y desarrollo de bienes raíces.md",
     "DesarrolloWeb/2 Arquitectura Web.md",
     "IdeO/Orígenes de la Investigación de Operaciones.md",
-    "IdeO/Caso sobre el Uso y desarrollo de bienes raíces.md",
-    "IdeO/Planteamiento de Análisis de Casos.md",
-    "Ciberseguridad/Segundo Parcial/Tema 3, Seguridad Computacional.md",
     "ProcesamientoImagenes/Procesamiento de Imágenes.md",
     "Becario/Untitled.md",
     "Ciberseguridad/Segundo Parcial/Hardening.md",
-    "Ciberseguridad/Segundo Parcial/Untitled 1.md",
-    "Ciberseguridad/Segundo Parcial/Untitled.md",
     "Materias.md",
     "ProcesamientoImagenes/Clase 12-08-24.md",
     "DesarrolloWeb/Modelo Modular.md",
     "DesarrolloWeb/Tarea 2 Http request errors.md",
     "ProcesamientoImagenes/Ecualización.md",
-    "IdeO/Investigación de Operaciones.md",
     "Becario",
     "ProcesamientoImagenes/Filtros en el Procesamiento de Imágenes.md",
     "DesarrolloWeb/Desarrollo Web.md",
@@ -175,7 +188,6 @@
     "Hackeo/Clase Hackeo Teoría.md",
     "Ciberseguridad/Ciberseguridad.md",
     "DesarrolloWeb/1 Historia de la Web.md",
-    "DesarrolloWeb/Ponderación.md",
     "files",
     "Ciberseguridad/Segundo Parcial",
     "Ciberseguridad/Primer Parcial",
