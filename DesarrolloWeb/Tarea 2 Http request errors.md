@@ -1,0 +1,32 @@
+Tarea 1
+Los códigos pueden ir del 100 al 599 y se dividen de la siguiente manera:
+- 100-199: Informativo - Solicitud recibida, proceso continuo..
+	- 100: Continue/Continuar - Indica que la solicitud se ha recibido sin ningún problema, todo está bien pero el proceso continúa, si no se rechaza el resto del proceso todo estará bien.
+	- 101: Switching Protocol/Cambio de protocolos - Este código indica que el servidor acepta la solicitud del cliente cambiar a un protocolo HTTP diferente.
+	- 102: Processing/Procesamiento - Este es un estado que solo se usa con WebDAV (Web Distributed Authoring and Versioning); este código es de estado e indica una respuesta provisional, gracias a la cual se indica al cliente que ha aceptado la solicitud completa, pero ésta no se ha terminado aún.
+	- 103: Early Hints/Consejos tempranos - Estos códigos denotan sugerencias tempranas, es decir que algo se encuentra actualemente en la evaluación/fase experimental.
+	- 104-199: Sin asignar.
+- 200-299: Success - La acción fue recibida, entendida y aceptada con éxito.
+	- 200: Ok - Indica que una solicitud, fue recibida, procesada y que se realizó completamente. (En caso de un GET request también incluirá el recurso).
+	- 201: Created/Creado - Es igualmente un código de Ok, pero también significa que una solicitud se procesó correctamente y devolvió, o creó un recurso en el proceso.
+	- 202: Accepted/Aceptado - Indica que el servidor ya recibió una solicitud de procesamiento y ya fue aceptada, pero ésta no se ha completado.
+	- 203: Non-Authoritative Information/ Información no Autorizada - Esta se utiliza usualmente en un Proxy HTTP, indica que algo fue cambiado durante el proceso.
+	- 204: No content/ Sin contenido - La petición se ha completado con éxito, pero la respuesta no tiene contendo.
+- 300-399: Redirección - Se deben tomar medidas adicionales para completar la solicitud.
+	- 300: Multiple Choice - Indica que la solicitud tiene más de una posible respuesta.
+	- 301: Moved Permanently - Indica que la URI (Identificador de Recursos Uniformes) del recurso solicitado fue cabiada.
+	- 302: Found - Indica que la URI del recurso solicitado ha cambiado temporalmente.
+	- 303: See other - Envía una respuesta para dirigir al cliente a un nuevo recurso solicitado a otra dirección usando un GET request.
+	- 304: Not Modified - Indica al cliente que la respuesta no ha sido modificada, por lo que puede seguir usando la misma versión almacenada en su cache.
+- 400-499: Error del cliente - La solicitud  contiene una sintaxis incorrecta o no se puede cumplir.
+	- 400: Bad Request - No se pudo interpretar la solicitud con una sintaxis válida.
+	- 401: Unauthorized - Se necesita autenticar para obtener respuesta.
+	- 403: Forbidden - El cliente no posee permisos para ver ese contenido.
+	- 404: Not Found - No se encontró el contenido solicitado.
+	- 405: Method not Allowed - El método solicitado ha sido deshabilitado y no se puede utilizar.
+- 500-599: Error del servidor - El servidor no pudo cumplir con una solicitud aparentemente válida.
+	- 500: Internal Server Error - El servidor ha encontrado una situación que no cómo manejarla.
+	- 501: Not Implemented - El método solicitado no está soportado por el servidor y no puede ser manejado.
+	- 502: Bad Gateway - Indica que mientras funcionaba como una puerta de enlace para obtener una respuesta, obtuvo una respuesta inválida.
+	- 503: Service Unavailable - El servidor no puede manejar la petición.
+	- 504: Gateway timeout - Esta respuesta de error es dada cuando el servidor está actuando como una puerta de enlace y no puede obtener una respuesta a tiempo.

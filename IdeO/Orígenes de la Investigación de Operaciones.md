@@ -1,3 +1,5 @@
+Tags: [[Investigación de Operaciones]]
+
 Fases de la investigación de operaciones:
 1. Formulación y definición del problema:
 Ya que tengo el resumen de que quiero hacer, cómo hago la abstracción, con que herramienta matemática lo debo de resolver.

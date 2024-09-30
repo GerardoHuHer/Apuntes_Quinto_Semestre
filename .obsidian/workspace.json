@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "60e13aa65b73ff82",
+        "id": "668495895fdda64e",
         "type": "tabs",
         "children": [
           {
-            "id": "482ccd77d3e6056c",
+            "id": "6379758e017ea0dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/1-Introducción a la seguridad de la información.md",
+                "file": "IdeO/Planteamiento de Análisis de Casos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f241a09eeeed7c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IdeO/Dualidad.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/1-Introducción a la seguridad de la información.md",
+                "file": "IdeO/Dualidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/1-Introducción a la seguridad de la información.md",
+                "file": "IdeO/Dualidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/1-Introducción a la seguridad de la información.md"
+                "file": "IdeO/Dualidad.md"
               }
             }
           }
@@ -146,8 +158,52 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
+<<<<<<< HEAD
   "active": "482ccd77d3e6056c",
   "lastOpenFiles": [
     "Ciberseguridad/Sin título.md"
+=======
+  "active": "5f241a09eeeed7c3",
+  "lastOpenFiles": [
+    "IdeO/Investigación de Operaciones.md",
+    "IdeO/Dualidad.md",
+    "IdeO/Planteamiento de Análisis de Casos.md",
+    "Ciberseguridad/Segundo Parcial/Criptografía.md",
+    "Ciberseguridad/Segundo Parcial/Tema 3, Seguridad Computacional.md",
+    "Ciberseguridad/Segundo Parcial/Untitled 1.md",
+    "IdeO/Caso sobre el Uso y desarrollo de bienes raíces.md",
+    "DesarrolloWeb/2 Arquitectura Web.md",
+    "IdeO/Orígenes de la Investigación de Operaciones.md",
+    "ProcesamientoImagenes/Procesamiento de Imágenes.md",
+    "Becario/Untitled.md",
+    "Ciberseguridad/Segundo Parcial/Hardening.md",
+    "Materias.md",
+    "ProcesamientoImagenes/Clase 12-08-24.md",
+    "DesarrolloWeb/Modelo Modular.md",
+    "DesarrolloWeb/Tarea 2 Http request errors.md",
+    "ProcesamientoImagenes/Ecualización.md",
+    "Becario",
+    "ProcesamientoImagenes/Filtros en el Procesamiento de Imágenes.md",
+    "DesarrolloWeb/Desarrollo Web.md",
+    "ProcesamientoImagenes/Clase 19-08-24.md",
+    "ProcesamientoImagenes/Clase 16-08-24.md",
+    "ProcesamientoImagenes/Clase 13 Septiembre.md",
+    "ProcesamientoImagenes/Calificaciones Procesamiento de Imágenes.md",
+    "Hackeo/Clase Hackeo Teoría.md",
+    "Ciberseguridad/Ciberseguridad.md",
+    "DesarrolloWeb/1 Historia de la Web.md",
+    "files",
+    "Ciberseguridad/Segundo Parcial",
+    "Ciberseguridad/Primer Parcial",
+    "Untitled.canvas",
+    "files/Pasted image 20240807181115.png",
+    "ProcesamientoImagenes",
+    "Hackeo",
+    "Hacking ético",
+    "files/Pasted image 20240807204742.png",
+    "files/Pasted image 20240807181157.png",
+    "IdeO",
+    "Investigación de Operaciones",
+    "Sin nombre 1"
   ]
 }
