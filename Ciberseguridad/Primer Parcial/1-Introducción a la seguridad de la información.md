@@ -86,3 +86,54 @@ De acuerdo con Gartner
 3. SANS INSTITUTE
 4. EC-Council 
 5. Offesnsive security
+
+# Fases del Ethical Hacking
+1. Reconocimiento: Information/Identification, vamos a buscar la información de nuestro objetivo.
+2. Escaneo: Service enumeration.
+3. Obtener acceso: Explotation.
+4. Mantener acceso:
+5. Eliminar rastros de configuraciones realizadas: House keeping.
+- Principio de Locard: Cuando atacan el sistema se deja un rastro. 
+Usualmente se detecta ya qué el atacante lleva tiempo en el sistema, y lo que hace el forense es tratar de ver o recrear lo qeu sucedió
+
+Ollydbg
+utun0: tuneles, es decir vpn
+
+---
+
+Es lo mismo seguridad de la información que diberseguridad? no
+Tiene como objetivo la destruccuón, alteración o acceso no autorizado: ataque
+QUé es un SGSI sistema de gestión de seguridad de la información
+
+---
+
+
+## Sistema de Gestión de Seguridad de la Información.
+
+Es un conjunto de elementos interrelacionados de una organización para establecer objetivos, políticas y procesos que permitan alcanzar tales objetivos.
+
+Un sistema de gestión puede abarcar una o varias disciplinas
+
+## ISMS (Information Security Managment System)
+Tiene un enfoque sistemático para establecer, implementar, operar, monitorear, revisar, mantener y mejorar la seguridad de la información de una organización para alcanzar sus objetivos de negocio.
+
+## Principios fundamentales
+**Stakeholder:** Alguien que es afectado
+- Concientización de la necesidad de seguridad de la información.
+- Asignar responsabilidades de seguridad de la información.
+- Incorporar
+
+Evento: Algo que pasa
+Incidente: Algo que pasa, pero afecta de manera negativa, rnsomware, denegación de servicios.
+
+**Control: Medida de seguridad para mitigar el riesgo**
+Estructura de un SGSM
+Base regulatoria:
+- Cláusulas generales.
+- Cláusulas par
+
+## **27001: Cómo establecer un SGSM**
+j
+
+DLP: Data lose prevention, monitorea todos los documentos que tengo en mi máquina para ver 
+

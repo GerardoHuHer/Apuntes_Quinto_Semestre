@@ -1,26 +1,26 @@
 {
   "main": {
-    "id": "d5641f064c918fdd",
+    "id": "9c3af5a7c84d701b",
     "type": "split",
     "children": [
       {
-        "id": "668495895fdda64e",
+        "id": "37f62b842104da30",
         "type": "tabs",
         "children": [
           {
-            "id": "6379758e017ea0dd",
+            "id": "f3aed5a6d8ee4724",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IdeO/Planteamiento de Análisis de Casos.md",
+                "file": "ProcesamientoImagenes/Ecualización.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5f241a09eeeed7c3",
+            "id": "ad313756c7afb551",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,15 +50,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "964c1f8aa64baa6c",
+    "id": "127a0a1764f8e4bb",
     "type": "split",
     "children": [
       {
-        "id": "7fe5f038542fce70",
+        "id": "b99dfa2817f1647c",
         "type": "tabs",
         "children": [
           {
-            "id": "430099f8d24707a8",
+            "id": "16b398b4a247af51",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +68,7 @@
             }
           },
           {
-            "id": "96ff46b1d43f58b1",
+            "id": "9eb92b778c00e50f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +83,7 @@
             }
           },
           {
-            "id": "1d4a4e741467a488",
+            "id": "84bff3fff7d3fc51",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -98,15 +98,15 @@
     "collapsed": true
   },
   "right": {
-    "id": "b119ca2483e566b1",
+    "id": "014337fc85f9716b",
     "type": "split",
     "children": [
       {
-        "id": "40c61f8c6f8e0b5e",
+        "id": "c97cb45bbbf1f152",
         "type": "tabs",
         "children": [
           {
-            "id": "fcf06110f39c7404",
+            "id": "0d93113821ae0692",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -123,7 +123,7 @@
             }
           },
           {
-            "id": "9db39e9be7dcf1f2",
+            "id": "458642ddfa27b361",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -135,7 +135,7 @@
             }
           },
           {
-            "id": "34a3dfe109701581",
+            "id": "fcdd2c7783863ef2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -146,7 +146,7 @@
             }
           },
           {
-            "id": "4144eaf631c41c21",
+            "id": "e94c9c8b2d9963d7",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -164,55 +164,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7ec12d9a6d32171e",
+  "active": "ad313756c7afb551",
   "lastOpenFiles": [
-    "Ciberseguridad/Segundo Parcial/Criptografía.md",
-    "Ciberseguridad/Segundo Parcial/Hardening.md",
-    "Ciberseguridad/Segundo Parcial/Actividad cifrado César.md",
-    "IdeO/Investigación de Operaciones.md",
+    "files/Pasted image 20241002175854.png",
+    "ProcesamientoImagenes/Procesamiento en Color.md",
     "IdeO/Dualidad.md",
     "IdeO/Planteamiento de Análisis de Casos.md",
-    "Ciberseguridad/Segundo Parcial/Tema 3, Seguridad Computacional.md",
-    "Ciberseguridad/Segundo Parcial/Untitled 1.md",
-    "IdeO/Caso sobre el Uso y desarrollo de bienes raíces.md",
-    "DesarrolloWeb/2 Arquitectura Web.md",
-    "IdeO/Orígenes de la Investigación de Operaciones.md",
-    "ProcesamientoImagenes/Procesamiento de Imágenes.md",
-    "Becario/Untitled.md",
+    "IdeO/Investigación de Operaciones.md",
     "Materias.md",
-    "ProcesamientoImagenes/Clase 12-08-24.md",
-    "DesarrolloWeb/Modelo Modular.md",
-    "DesarrolloWeb/Tarea 2 Http request errors.md",
+    "ProcesamientoImagenes/Procesamiento de Imágenes.md",
+    "ProcesamientoImagenes/Mueveme.md",
+    "files/Pasted image 20240930145334.png",
     "ProcesamientoImagenes/Ecualización.md",
-    "Becario",
-    "ProcesamientoImagenes/Filtros en el Procesamiento de Imágenes.md",
-    "DesarrolloWeb/Desarrollo Web.md",
-    "ProcesamientoImagenes/Clase 19-08-24.md",
-    "ProcesamientoImagenes/Clase 16-08-24.md",
-    "ProcesamientoImagenes/Clase 13 Septiembre.md",
-    "ProcesamientoImagenes/Calificaciones Procesamiento de Imágenes.md",
-    "Hackeo/Clase Hackeo Teoría.md",
-    "Ciberseguridad/Ciberseguridad.md",
-    "files",
-    "Ciberseguridad/Segundo Parcial",
-    "Ciberseguridad/Primer Parcial",
-    "Untitled.canvas",
-    "files/Pasted image 20240807181115.png",
-    "ProcesamientoImagenes",
-    "Hackeo",
-    "Hacking ético",
-    "files/Pasted image 20240807204742.png",
-    "files/Pasted image 20240807181157.png",
-    "IdeO",
-    "Investigación de Operaciones",
-    "Sin nombre 1"
+    "ProcesamientoImagenes/mueveme.md"
   ]
 }
