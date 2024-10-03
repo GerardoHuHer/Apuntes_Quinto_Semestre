@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProcesamientoImagenes/Mueveme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a00c47da5d2b325c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ProcesamientoImagenes/Procesamiento en Color.md",
+                "file": "IdeO/Dualidad.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProcesamientoImagenes/Procesamiento en Color.md",
+                "file": "IdeO/Dualidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProcesamientoImagenes/Procesamiento en Color.md",
+                "file": "IdeO/Dualidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProcesamientoImagenes/Procesamiento en Color.md"
+                "file": "IdeO/Dualidad.md"
               }
             }
           }
@@ -172,14 +160,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a00c47da5d2b325c",
+  "active": "ad313756c7afb551",
   "lastOpenFiles": [
-    "files/Pasted image 20240930145334.png",
-    "ProcesamientoImagenes/Mueveme.md",
+    "files/Pasted image 20241002175854.png",
     "ProcesamientoImagenes/Procesamiento en Color.md",
+    "IdeO/Dualidad.md",
+    "IdeO/Planteamiento de Análisis de Casos.md",
+    "IdeO/Investigación de Operaciones.md",
+    "Materias.md",
     "ProcesamientoImagenes/Procesamiento de Imágenes.md",
+    "ProcesamientoImagenes/Mueveme.md",
+    "files/Pasted image 20240930145334.png",
     "ProcesamientoImagenes/Ecualización.md",
-    "ProcesamientoImagenes/mueveme.md",
-    "IdeO/Investigación de Operaciones.md"
+    "ProcesamientoImagenes/mueveme.md"
   ]
 }
