@@ -1,3 +1,3 @@
 Índice
-[[Planteamiento de Análisis de Casos]]
-[[Dualidad]]
+1. [[Planteamiento de Análisis de Casos]]
+2. [[Dualidad]]

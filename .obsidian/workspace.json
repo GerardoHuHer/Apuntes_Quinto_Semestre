@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IdeO/Dualidad.md",
+                "file": "IdeO/Investigación de Operaciones.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ec12d9a6d32171e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciberseguridad/Segundo Parcial/Actividad cifrado César.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b119ca2483e566b1",
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IdeO/Dualidad.md",
+                "file": "Ciberseguridad/Segundo Parcial/Actividad cifrado César.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IdeO/Dualidad.md",
+                "file": "Ciberseguridad/Segundo Parcial/Actividad cifrado César.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IdeO/Dualidad.md"
+                "file": "Ciberseguridad/Segundo Parcial/Actividad cifrado César.md"
               }
             }
           }
@@ -159,12 +172,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f241a09eeeed7c3",
+  "active": "7ec12d9a6d32171e",
   "lastOpenFiles": [
+    "Ciberseguridad/Segundo Parcial/Criptografía.md",
+    "Ciberseguridad/Segundo Parcial/Hardening.md",
+    "Ciberseguridad/Segundo Parcial/Actividad cifrado César.md",
     "IdeO/Investigación de Operaciones.md",
     "IdeO/Dualidad.md",
     "IdeO/Planteamiento de Análisis de Casos.md",
-    "Ciberseguridad/Segundo Parcial/Criptografía.md",
     "Ciberseguridad/Segundo Parcial/Tema 3, Seguridad Computacional.md",
     "Ciberseguridad/Segundo Parcial/Untitled 1.md",
     "IdeO/Caso sobre el Uso y desarrollo de bienes raíces.md",
@@ -172,7 +187,6 @@
     "IdeO/Orígenes de la Investigación de Operaciones.md",
     "ProcesamientoImagenes/Procesamiento de Imágenes.md",
     "Becario/Untitled.md",
-    "Ciberseguridad/Segundo Parcial/Hardening.md",
     "Materias.md",
     "ProcesamientoImagenes/Clase 12-08-24.md",
     "DesarrolloWeb/Modelo Modular.md",
@@ -187,7 +201,6 @@
     "ProcesamientoImagenes/Calificaciones Procesamiento de Imágenes.md",
     "Hackeo/Clase Hackeo Teoría.md",
     "Ciberseguridad/Ciberseguridad.md",
-    "DesarrolloWeb/1 Historia de la Web.md",
     "files",
     "Ciberseguridad/Segundo Parcial",
     "Ciberseguridad/Primer Parcial",
